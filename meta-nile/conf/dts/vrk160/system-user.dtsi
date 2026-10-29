@@ -1,0 +1,8 @@
+/ {
+    /*
+     * Placeholder overlay for the initial VRK160 Linux bring-up.
+     * This file is included by the device tree generation flow when the
+     * machine config expects an extra DT overlay. Keep it intentionally minimal
+     * until board-specific DT adjustments are required.
+     */
+};
