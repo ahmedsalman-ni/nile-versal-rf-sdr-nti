@@ -1,0 +1,5 @@
+# pipeline still refers to this file; redirect to new location under targets
+header:
+  version: 19
+  includes:
+    - kas/targets/nile-image-dev_vrk160.yml
